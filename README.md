@@ -1,21 +1,22 @@
-# Power-BI Dashboards
-
+# Data Analysis Dashboards
 This repository holds all my Power BI dashboards done as a part of various Data Analysis projects. The Projects are available on GitHub. Click the title of the projects to go to that Project Repository.
 
-### [Mapping MGNREGA - A state-level analysis of one of world’s largest Rural Employment Scheme](https://github.com/Arpita-deb/NREGA-Data-Analysis.git)
-### June, 2024
+## Power BI Dashboards
+
+### 1. [Mapping MGNREGA - A state-level analysis of one of world’s largest Rural Employment Scheme](https://github.com/Arpita-deb/NREGA-Data-Analysis.git)
+**June, 2024**
 
 ![DB 1](https://github.com/Arpita-deb/NREGA-Data-Analysis/assets/139372731/08d2873d-8336-4e05-a105-0e1c3fc6fb30)
 
 ![DB 2](https://github.com/Arpita-deb/NREGA-Data-Analysis/assets/139372731/f688303c-9ba5-4777-906b-3049fcd8c723)
 
-### [Epidemic Analytics: Evaluating COVID-19’s Global Footprint](https://github.com/Arpita-deb/Corona-Virus-Analysis.git)
-### June, 2024
+### 2. [Epidemic Analytics: Evaluating COVID-19’s Global Footprint](https://github.com/Arpita-deb/Corona-Virus-Analysis.git)
+**June, 2024**
 
 ![Corona Virus Analysis](https://github.com/Arpita-deb/Power-BI-Dashboards/assets/139372731/c39dc46a-209d-42ae-a5ab-ca69f76e273d)
 
-### [AdventureWorks Sales Performace Analysis](https://github.com/Arpita-deb/AdventureWorks-Sales-Performance-Analysis-2014-2016.git)
-### June, 2024
+### 3. [AdventureWorks Sales Performace Analysis](https://github.com/Arpita-deb/AdventureWorks-Sales-Performance-Analysis-2014-2016.git)
+**June, 2024**
 
 ![1](https://github.com/Arpita-deb/Power-BI-Dashboards/assets/139372731/a36a4c63-a713-40be-a1fb-8b55a13afc2f)
 
@@ -24,12 +25,40 @@ This repository holds all my Power BI dashboards done as a part of various Data 
 ![3](https://github.com/Arpita-deb/Power-BI-Dashboards/assets/139372731/7c66bf99-6413-4ff8-9349-547cb06c1a1b)
 
 
-### [Charting Progress: An examination of Market Capitalization in the Indian Corporate landscape in 2018](https://github.com/Arpita-deb/Top_Indian_Firms_Market_Capitalization-Analysis_For_2018.git)
-### May, 2024
+### 4. [Charting Progress: An examination of Market Capitalization in the Indian Corporate landscape in 2018](https://github.com/Arpita-deb/Top_Indian_Firms_Market_Capitalization-Analysis_For_2018.git)
+**May, 2024**
 
 ![Market Cap Dashboard](https://github.com/Arpita-deb/Power-BI-Dashboards/assets/139372731/01e2b5be-6a51-44a9-8eff-992791a45d5d)
 
-### [Predictive Analysis of US Regional Sales Data using Excel, Power BI, and R](https://github.com/Arpita-deb/Sales_Data_Analysis.git)
-### March 2024
+### 5. [Predictive Analysis of US Regional Sales Data using Excel, Power BI, and R](https://github.com/Arpita-deb/Sales_Data_Analysis.git)
+**March 2024**
 
 ![US Regional Sales Dashboard](https://github.com/Arpita-deb/Power-BI-Dashboards/assets/139372731/3739932b-e2dd-4ffe-9855-6fcaf671077a)
+
+## Tableau Dashboards
+
+### 1. [Navigating Sundarban's Saline Waters (2019) : Analyzing River and Tubewell Salinity Levels](https://github.com/Arpita-deb/Water-Salinity-Tableau-Dashboard.git)
+**March 2024**
+![river](https://github.com/user-attachments/assets/43d31382-04fa-4cd1-a35b-bed224172381)
+![tubewell](https://github.com/user-attachments/assets/459ed4d3-5f22-425d-b6bf-73770bc73cc2)
+
+### 2. [How to say Merry Christmas in many Languages](https://github.com/Arpita-deb/How-to-say-merry-christmas-in-different-languages.git)
+**December 2023**
+![christmas](https://github.com/user-attachments/assets/774918f2-1ee1-4661-9834-41104553c539)
+
+### 3. [Netflix Data Analysis: A Deep Dive into Streaming Trends](https://github.com/Arpita-deb/netflix-movies-and-tv-shows.git)
+**November 2023**
+![netflix](https://github.com/user-attachments/assets/bf63a51b-80fc-4e87-b0b9-8b0d35469e48)
+
+### 4. [Do I read all the books I buy?](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy.git)
+**August 2023**
+![books](https://github.com/user-attachments/assets/1b88d9db-e441-42fe-84ec-d80ab999ee22)
+
+### 5. [Santander Bikes Seasonal Data Analysis for 2016](https://github.com/Arpita-deb/London_Bike_Share_Tableau_EDA.git)
+**August 2023**
+![Santander cycles ](https://github.com/user-attachments/assets/29025e2d-ca02-4156-a685-591a2e348f33)
+
+### 6. US Bank Failure Tableau Dashboard
+**July 2023**
+Completed this dashboard as a part of LinkedIn Learning Tutorial 'From Excel to Tableau'.
+![bank failures](https://github.com/user-attachments/assets/8d8d9f9f-a7e3-4359-a132-b5b6c7d019b0)
