@@ -3,19 +3,24 @@ This repository holds all my Power BI dashboards done as a part of various Data 
 
 ## Power BI Dashboards
 
-### 1. [Mapping MGNREGA - A state-level analysis of one of world’s largest Rural Employment Scheme](https://github.com/Arpita-deb/NREGA-Data-Analysis.git)
+### 1. [LinkedIn Analytics Dashboard](https://github.com/Arpita-deb/LinkedIn-Analytics.git) 
+**August, 2024**
+
+![Dashboard](https://github.com/user-attachments/assets/aa07861c-9e8f-43e8-a0b9-1ea5f7672cf2)
+
+### 2. [Mapping MGNREGA - A state-level analysis of one of world’s largest Rural Employment Scheme](https://github.com/Arpita-deb/NREGA-Data-Analysis.git)
 **June, 2024**
 
 ![DB 1](https://github.com/Arpita-deb/NREGA-Data-Analysis/assets/139372731/08d2873d-8336-4e05-a105-0e1c3fc6fb30)
 
 ![DB 2](https://github.com/Arpita-deb/NREGA-Data-Analysis/assets/139372731/f688303c-9ba5-4777-906b-3049fcd8c723)
 
-### 2. [Epidemic Analytics: Evaluating COVID-19’s Global Footprint](https://github.com/Arpita-deb/Corona-Virus-Analysis.git)
+### 3. [Epidemic Analytics: Evaluating COVID-19’s Global Footprint](https://github.com/Arpita-deb/Corona-Virus-Analysis.git)
 **June, 2024**
 
 ![Corona Virus Analysis](https://github.com/Arpita-deb/Power-BI-Dashboards/assets/139372731/c39dc46a-209d-42ae-a5ab-ca69f76e273d)
 
-### 3. [AdventureWorks Sales Performace Analysis](https://github.com/Arpita-deb/AdventureWorks-Sales-Performance-Analysis-2014-2016.git)
+### 4. [AdventureWorks Sales Performace Analysis](https://github.com/Arpita-deb/AdventureWorks-Sales-Performance-Analysis-2014-2016.git)
 **June, 2024**
 
 ![1](https://github.com/Arpita-deb/Power-BI-Dashboards/assets/139372731/a36a4c63-a713-40be-a1fb-8b55a13afc2f)
@@ -25,12 +30,12 @@ This repository holds all my Power BI dashboards done as a part of various Data 
 ![3](https://github.com/Arpita-deb/Power-BI-Dashboards/assets/139372731/7c66bf99-6413-4ff8-9349-547cb06c1a1b)
 
 
-### 4. [Charting Progress: An examination of Market Capitalization in the Indian Corporate landscape in 2018](https://github.com/Arpita-deb/Top_Indian_Firms_Market_Capitalization-Analysis_For_2018.git)
+### 5. [Charting Progress: An examination of Market Capitalization in the Indian Corporate landscape in 2018](https://github.com/Arpita-deb/Top_Indian_Firms_Market_Capitalization-Analysis_For_2018.git)
 **May, 2024**
 
 ![Market Cap Dashboard](https://github.com/Arpita-deb/Power-BI-Dashboards/assets/139372731/01e2b5be-6a51-44a9-8eff-992791a45d5d)
 
-### 5. [Predictive Analysis of US Regional Sales Data using Excel, Power BI, and R](https://github.com/Arpita-deb/Sales_Data_Analysis.git)
+### 6. [Predictive Analysis of US Regional Sales Data using Excel, Power BI, and R](https://github.com/Arpita-deb/Sales_Data_Analysis.git)
 **March 2024**
 
 ![US Regional Sales Dashboard](https://github.com/Arpita-deb/Power-BI-Dashboards/assets/139372731/3739932b-e2dd-4ffe-9855-6fcaf671077a)
