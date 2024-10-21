@@ -42,28 +42,34 @@ This repository holds all my Power BI dashboards done as a part of various Data 
 
 ## Tableau Dashboards
 
-### 1. [Navigating Sundarban's Saline Waters (2019) : Analyzing River and Tubewell Salinity Levels](https://github.com/Arpita-deb/Water-Salinity-Tableau-Dashboard.git)
+### 1. [Human Resources Dashboard](https://public.tableau.com/views/HumanResourcesDashboard_17289276679230/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**October 2024**
+
+![HR Overview Dashboard](https://github.com/user-attachments/assets/0cf3a914-bb36-4673-acc4-1a0e534fb740)
+
+![HR Demographic Dashboard](https://github.com/user-attachments/assets/7b5e3c4a-7838-4d60-b812-d375d8ac77f8)
+
+![HR Employee Directory Dashboard](https://github.com/user-attachments/assets/192f6a73-b2d0-4c26-9d8b-b9aad0db74fb)
+
+### 2. [Navigating Sundarban's Saline Waters (2019) : Analyzing River and Tubewell Salinity Levels](https://github.com/Arpita-deb/Water-Salinity-Tableau-Dashboard.git)
 **March 2024**
+
 ![river](https://github.com/user-attachments/assets/43d31382-04fa-4cd1-a35b-bed224172381)
+
 ![tubewell](https://github.com/user-attachments/assets/459ed4d3-5f22-425d-b6bf-73770bc73cc2)
 
-### 2. [How to say Merry Christmas in many Languages](https://github.com/Arpita-deb/How-to-say-merry-christmas-in-different-languages.git)
+### 3. [How to say Merry Christmas in many Languages](https://github.com/Arpita-deb/How-to-say-merry-christmas-in-different-languages.git)
 **December 2023**
 ![christmas](https://github.com/user-attachments/assets/774918f2-1ee1-4661-9834-41104553c539)
 
-### 3. [Netflix Data Analysis: A Deep Dive into Streaming Trends](https://github.com/Arpita-deb/netflix-movies-and-tv-shows.git)
+### 4. [Netflix Data Analysis: A Deep Dive into Streaming Trends](https://github.com/Arpita-deb/netflix-movies-and-tv-shows.git)
 **November 2023**
 ![netflix](https://github.com/user-attachments/assets/bf63a51b-80fc-4e87-b0b9-8b0d35469e48)
 
-### 4. [Do I read all the books I buy?](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy.git)
+### 5. [Do I read all the books I buy?](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy.git)
 **August 2023**
 ![books](https://github.com/user-attachments/assets/1b88d9db-e441-42fe-84ec-d80ab999ee22)
 
-### 5. [Santander Bikes Seasonal Data Analysis for 2016](https://github.com/Arpita-deb/London_Bike_Share_Tableau_EDA.git)
+### 6. [Santander Bikes Seasonal Data Analysis for 2016](https://github.com/Arpita-deb/London_Bike_Share_Tableau_EDA.git)
 **August 2023**
 ![Santander cycles ](https://github.com/user-attachments/assets/29025e2d-ca02-4156-a685-591a2e348f33)
-
-### 6. US Bank Failure Tableau Dashboard
-**July 2023**
-Completed this dashboard as a part of LinkedIn Learning Tutorial 'From Excel to Tableau'.
-![bank failures](https://github.com/user-attachments/assets/8d8d9f9f-a7e3-4359-a132-b5b6c7d019b0)
